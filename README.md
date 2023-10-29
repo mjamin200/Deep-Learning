@@ -32,10 +32,6 @@ This task focuses on dimensionality reduction using Principal Component Analysis
 
 The third problem involves classification using Support Vector Machines (SVM) with different kernel functions (linear, RBF, and polynomial). The dataset used for this problem is the Heart Disease Dataset.
 
-## Acknowledgments
-
-Give credit to any resources, libraries, or individuals who contributed to your assignment.
-
 ## Contact
 
 Email: M.j.amin200@gmail.com
