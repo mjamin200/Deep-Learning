@@ -14,7 +14,7 @@ This course is designed to provide a comprehensive understanding of deep learnin
 ## Repository Structure
 
 - **Assignment 1**: Review of Essential ML Concepts
-  - [README.md](./Assignment1/README.md)
+  - [README.md](./Assignment 1/README.md)
 - **Assignment 2**: Not publishe
 - **Assignment 3**: Not publishe
 - ...
