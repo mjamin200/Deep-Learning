@@ -29,7 +29,7 @@ In this assignment, I have completed a series of theoretical questions and pract
 
 If you have any questions or want to connect regarding the assignments or deep learning, feel free to reach out to me:
 
-- **Your Name**: [Mohammad Java Amin]
-- **Email**: [M.j.amin200@gamil.com]
+- Mohammad Java Amin
+- M.j.amin200@gamil.com
 
 I hope you find the assignments and code in this repository insightful and informative. Happy learning!
