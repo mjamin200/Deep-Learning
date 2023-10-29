@@ -1,34 +1,43 @@
 ## Deep Learning Assignment - Assignment #1
 
+## Overview
+
+This assignment is part of a deep learning course, serving as the first project. It involves a combination of theoretical questions and practical coding tasks. The assignment covers essential machine learning concepts and tasks related to decision trees, dimensionality reduction with PCA, and classification using various algorithms on different datasets.
+
 ## Table of Contents
-- [Introduction](#introduction)
-- [Assignment Overview](#assignment-overview)
+
 - [Theory Questions](#theory-questions)
 - [Code Tasks](#code-tasks)
-- [Topics](#topics)
-
-## Introduction
-This README provides an overview of Assignment #1 in the Deep Learning course. The assignment includes both theory questions and coding tasks related to machine learning concepts.
-
-## Assignment Overview
-- This assignment serves as an introduction to deep learning and reviews fundamental machine learning concepts.
-- It consists of theory questions and three coding tasks that cover the topics of Support Vector Machines (SVM), Logistic Regression, implementing the Decision Tree (ID3) algorithm from scratch, and Principal Component Analysis (PCA).
+  - [Problem 1: Implementing Decision Tree ID3](#problem-1-implementing-decision-tree-id3)
+  - [Problem 2: PCA and Classification with Random Forest and Logistic Regression](#problem-2-pca-and-classification)
+  - [Problem 3: Classification with SVM](#problem-3-classification-with-svm)
 
 ## Theory Questions
-- The assignment includes a set of theory questions to evaluate your understanding of basic machine learning concepts. These questions are designed to refresh your knowledge of fundamental principles.
+
+In this section, we reviewed fundamental machine learning concepts. This part of the assignment is designed to ensure a solid understanding of the basics before diving into practical coding tasks. You can provide more details about the theory questions and the specific topics covered.
 
 ## Code Tasks
-The assignment contains three coding tasks:
-1. **SVM Implementation**: Implement a Support Vector Machine (SVM) classifier to solve a specific problem.
-2. **Logistic Regression**: Create a logistic regression model to solve a classification problem.
-3. **Decision Tree (ID3) from Scratch**: Implement the ID3 algorithm to build a decision tree from scratch.
-4. **Principal Component Analysis (PCA)**: Apply Principal Component Analysis to reduce the dimensionality of a dataset.
 
-## Topics
-The coding tasks cover the following topics:
-- Support Vector Machines (SVM)
-- Logistic Regression
-- Decision Tree (ID3) from scratch
-- Principal Component Analysis (PCA)
+The coding portion of the assignment is divided into three problems, each addressing a different aspect of machine learning.
+
+### Problem 1: Implementing Decision Tree ID3
+
+In this task, you'll implement the ID3 decision tree algorithm from scratch. The dataset used for this problem is MNIST. This problem serves as a foundational exercise in decision tree algorithms.
+
+### Problem 2: PCA and Classification with Random Forest and Logistic Regression
+
+This task focuses on dimensionality reduction using Principal Component Analysis (PCA) and solving classification problems with two different algorithms: Random Forest and Logistic Regression. The dataset used is still MNIST.
+
+### Problem 3: Classification with SVM
+
+The third problem involves classification using Support Vector Machines (SVM) with different kernel functions (linear, RBF, and polynomial). The dataset used for this problem is the Heart Disease Dataset.
+
+## Acknowledgments
+
+Give credit to any resources, libraries, or individuals who contributed to your assignment.
+
+## Contact
+
+Email: M.j.amin200@gmail.com
 
 
