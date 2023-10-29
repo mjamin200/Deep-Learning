@@ -11,22 +11,20 @@ I'm currently enrolled in this course for the current semester, and this reposit
 
 This course is designed to provide a comprehensive understanding of deep learning and its applications. Throughout the semester, I will be working on various assignments and projects that will cover a wide range of topics within the field of deep learning.
 
+## Repository Structure
+
+- **Assignment 1**: Review of Essential ML Concepts
+  - [README.md](./Assignment1/README.md)
+- **Assignment 2**: Not publishe
+- **Assignment 3**: Not publishe
+- ...
+
 ## Assignment 1: Review of Essential ML Concepts
 
 The first assignment for this course is focused on reviewing essential machine learning concepts. It serves as a foundational exercise to ensure a strong understanding of the core principles and techniques used in machine learning.
 
 In this assignment, I have completed a series of theoretical questions and practical coding tasks. The coding tasks cover topics such as implementing decision trees, dimensionality reduction with PCA, and solving classification problems using various algorithms. The datasets used include MNIST and the Heart Disease Dataset.
 
-Please refer to the specific README files within this repository for detailed information on each assignment and the code implementations.
-
-## Repository Structure
-
-- **Assignment 1**: Review of Essential ML Concepts
-  - [README.md](./Assignment%201/README.md)
-  - [Code Files](./Assignment%201/code/)
-- **Assignment 2**: [Description if applicable]
-- **Assignment 3**: [Description if applicable]
-- ...
 
 ## Contact
 
