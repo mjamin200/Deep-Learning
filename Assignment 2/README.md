@@ -1,24 +1,19 @@
-# Deep Learning Assignment
-
-This assignment is part of a deep learning course, covering theory problems related to regularization, MLP (Multi-Layer Perceptron), and optimization. Additionally, it includes the implementation of a Multi-layer Neural Network from scratch and the forward forward algorithm based on a paper by Geoffrey Hinton.
-
 ## Table of Contents
 
-1. [Theory Problems]
+1. [Theory Problems](#theory-problems)
    - Regularization
    - MLP (Multi-Layer Perceptron)
    - Optimization
 
 2. [Implementation](#implementation)
-   - Multi-Layer Neural Network
-   - Forward Forward Algorithm
-
+   - [Multi-Layer Neural Network](#multi-layer-neural-network)
+   - [Forward Forward Algorithm](#forward-forward-algorithm)
+  
 ## Theory Problems
 
-# Theoretical Problems
+### Theoretical Problems
 
-In the Theoretical problems, you'll find explanations and solutions for regularization, Multi-Layer Perceptrons (MLP), and optimization in deep learning. The regularization part includes practical solutions and explanations. The MLP section covers the theory behind Multi-Layer Perceptrons with straightforward answers and mathematical explanations. Additionally, the optimization part discusses theoretical challenges related to optimizing deep learning models, offering insights into effective training techniques.
-
+In the Theoretical problems section, you'll find explanations and solutions for regularization, Multi-Layer Perceptrons (MLP), and optimization in deep learning. The regularization part includes practical solutions and explanations. The MLP section covers the theory behind Multi-Layer Perceptrons with straightforward answers and mathematical explanations. Additionally, the optimization part discusses theoretical challenges related to optimizing deep learning models, offering insights into effective training techniques.
 
 ## Implementation
 
@@ -29,21 +24,13 @@ I implemented a Multi-Layer Neural Network from scratch, incorporating the Adam 
 - `fully_connected_networks.py`: Python script containing the neural network implementation.
 - `fully_connected_networks.ipynb`: Jupyter notebook demonstrating the usage of the neural network implementation.
 
-### Forward Propagation Algorithm
+### Forward Forward Algorithm
 
-I implemented the forward propagation algorithm based on the paper by Geoffrey Hinton. The implementation was tested on the MNIST dataset, showcasing its effectiveness in both supervised and unsupervised learning scenarios.
+I implemented the forward forward algorithm based on the paper by Geoffrey Hinton. The implementation was tested on the MNIST dataset, showcasing its effectiveness in both supervised and unsupervised learning scenarios.
 
 - **File Structure:**
-  - `example_usage.ipynb`: Jupyter notebook demonstrating the usage of the forward propagation algorithm.
-
-## Usage
-
-For the implementation, follow the examples provided in the `example_usage.ipynb` notebooks. Ensure you have the necessary dependencies installed.
+  - `Forward-Forward Network.ipynb`: Jupyter notebook containing the implementation code for the forward propagation algorithm.
 
 ## Acknowledgments
 
-- Geoffrey Hinton for the insightful paper that inspired the forward propagation algorithm.
-
-## License
-
-This project is licensed under the [MIT License](/LICENSE).
+- Geoffrey Hinton for the insightful paper that inspired the forward forward algorithm.
