@@ -15,27 +15,19 @@ This assignment is part of a deep learning course, covering theory problems rela
 
 ## Theory Problems
 
-### Regularization
+# Theoretical Problems
 
-In the [Theory](/Theory) directory, you will find detailed solutions to regularization problems. This includes explanations, equations, and any relevant code snippets.
+In the Theoretical problems, you'll find explanations and solutions for regularization, Multi-Layer Perceptrons (MLP), and optimization in deep learning. The regularization part includes practical solutions and explanations. The MLP section covers the theory behind Multi-Layer Perceptrons with straightforward answers and mathematical explanations. Additionally, the optimization part discusses theoretical challenges related to optimizing deep learning models, offering insights into effective training techniques.
 
-### MLP (Multi-Layer Perceptron)
-
-The [Theory](/Theory) directory also covers theory problems related to Multi-Layer Perceptrons. Detailed answers, mathematical formulations, and any accompanying code can be found here.
-
-### Optimization
-
-The optimization section in [Theory](/Theory) addresses theoretical problems related to optimization techniques in deep learning. Solutions and relevant code are provided.
 
 ## Implementation
 
 ### Multi-Layer Neural Network
 
-The [Implementation](/Implementation) directory contains the code for building a Multi-Layer Neural Network from scratch. The implementation is structured and well-documented to facilitate understanding.
+I implemented a Multi-Layer Neural Network from scratch, incorporating the Adam and SGD optimization algorithms, along with dropout for enhanced performance. The implementation is structured and well-documented to facilitate understanding.
 
-- **File Structure:**
-  - `multilayer_neural_network.py`: Python script containing the implementation of the neural network.
-  - `example_usage.ipynb`: Jupyter notebook demonstrating how to use the implemented neural network.
+- `fully_connected_networks.py`: Python script containing the neural network implementation.
+- `fully_connected_networks.ipynb`: Jupyter notebook demonstrating the usage of the neural network implementation.
 
 ### Forward Propagation Algorithm
 
