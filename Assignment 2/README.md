@@ -31,10 +31,9 @@ I implemented a Multi-Layer Neural Network from scratch, incorporating the Adam 
 
 ### Forward Propagation Algorithm
 
-The [Implementation](/Implementation) directory also includes the implementation of the forward propagation algorithm based on the paper by Geoffrey Hinton.
+I implemented the forward propagation algorithm based on the paper by Geoffrey Hinton. The implementation was tested on the MNIST dataset, showcasing its effectiveness in both supervised and unsupervised learning scenarios.
 
 - **File Structure:**
-  - `forward_propagation_geoffrey_hinton.py`: Python script with the forward propagation algorithm.
   - `example_usage.ipynb`: Jupyter notebook demonstrating the usage of the forward propagation algorithm.
 
 ## Usage
