@@ -33,4 +33,6 @@ I implemented the forward forward algorithm based on the paper by Geoffrey Hinto
 
 ## Acknowledgments
 
-- Geoffrey Hinton for the insightful paper that inspired the forward forward algorithm.
+## Acknowledgments
+
+- [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/FFA13.pdf) for the insightful paper that inspired the forward forward algorithm.
