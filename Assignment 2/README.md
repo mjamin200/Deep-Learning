@@ -1,17 +1,17 @@
 # Deep Learning Assignment
 
-This repository contains the solutions and implementation for the deep learning assignment, covering theory problems related to regularization, MLP (Multi-Layer Perceptron), and optimization. Additionally, it includes the implementation of a Multi-layer Neural Network from scratch and the forward propagation algorithm based on a paper by Geoffrey Hinton.
+This assignment is part of a deep learning course, covering theory problems related to regularization, MLP (Multi-Layer Perceptron), and optimization. Additionally, it includes the implementation of a Multi-layer Neural Network from scratch and the forward forward algorithm based on a paper by Geoffrey Hinton.
 
 ## Table of Contents
 
-1. [Theory Problems](#theory-problems)
+1. [Theory Problems]
    - Regularization
    - MLP (Multi-Layer Perceptron)
    - Optimization
 
 2. [Implementation](#implementation)
    - Multi-Layer Neural Network
-   - Forward Propagation Algorithm
+   - Forward Forward Algorithm
 
 ## Theory Problems
 
