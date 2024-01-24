@@ -33,4 +33,4 @@ The pre-trained HooshvareLab/gpt2-fa model was fine-tuned on Ferdowsi's poems. S
 The Vector-Quantized Variational Autoencoders network was implemented based on a paper. The model was tested on the MNIST dataset and its color version. The model was also examined with different numbers and dimensions of the codebook vectors.
 
 ## Acknowledgements
-- [Aaron van den Oord]([https://www.cs.toronto.edu/~hinton/FFA13.pdf](https://arxiv.org/pdf/1711.00937.pdf)) for the insightful paper that inspired the VQ-VAE.
+[Aaron van den Oord](https://arxiv.org/pdf/1711.00937.pdf) for the insightful paper that inspired the VQ-VAE.
