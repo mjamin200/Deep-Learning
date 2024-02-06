@@ -1,38 +1,55 @@
-## Table of Contents
+# Deep Learning Assignment 2 - Neural Networks, Optimization, Regression
 
-1. [Theory Problems](#theory-problems)
-   - Regularization
-   - MLP (Multi-Layer Perceptron)
-   - Optimization
+## Overview
 
-2. [Implementation](#implementation)
-   - [Multi-Layer Neural Network](#multi-layer-neural-network)
-   - [Forward Forward Algorithm](#forward-forward-algorithm)
-  
-## Theory Problems
+This assignment covers building and training neural networks, optimization algorithms, and regression. 
 
-### Theoretical Problems
+Topics include:
 
-In the Theoretical problems section, you'll find explanations and solutions for regularization, Multi-Layer Perceptrons (MLP), and optimization in deep learning. The regularization part includes practical solutions and explanations. The MLP section covers the theory behind Multi-Layer Perceptrons with straightforward answers and mathematical explanations. Additionally, the optimization part discusses theoretical challenges related to optimizing deep learning models, offering insights into effective training techniques.
+- Fully-connected neural networks
+- Backpropagation  
+- Optimization algorithms like SGD, Momentum, RMSProp, Adam
+- Regularization techniques like dropout   
+- Linear regression
+- Implementing a novel "forward-forward propagation" algorithm
 
-## Implementation
+## Theory Questions and Code Tasks
 
-### Multi-Layer Neural Network
+### Theory Questions
 
-I implemented a Multi-Layer Neural Network from scratch, incorporating the Adam and SGD optimization algorithms, along with dropout for enhanced performance. The implementation is structured and well-documented to facilitate understanding.
+The assignment includes theoretical questions on:
 
-- `fully_connected_networks.py`: Python script containing the neural network implementation.
-- `fully_connected_networks.ipynb`: Jupyter notebook demonstrating the usage of the neural network implementation.
+- Neural network convergence
+- Ensemble methods like model committees 
+- Computing gradients and gradient descent optimization
+- Adaptive optimization algorithms like Adam
+- Dropout as a regularization technique
 
-### Forward Forward Algorithm
+### Coding Tasks  
 
-I implemented the forward forward algorithm based on the paper by Geoffrey Hinton. The implementation was tested on the MNIST dataset, showcasing its effectiveness in both supervised and unsupervised learning scenarios.
+The coding portion involves:
 
-- **File Structure:**
-  - `Forward-Forward Network.ipynb`: Jupyter notebook containing the implementation code for the forward propagation algorithm.
+- Fully connected neural network implementation
+- Forward-forward propagation algorithm
+- Training models on MNIST dataset
+- Analyzing accuracy and convergence
 
-## Acknowledgments
+## Fully Connected Neural Network Implementation
 
-## Acknowledgments
+- Implemented building blocks of neural networks like layers, loss functions, optimizers
+- Built a fully-connected network with configurable depth   
+- Trained the network on MNIST dataset
+- Tested different regularization techniques like dropout
 
-- [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/FFA13.pdf) for the insightful paper that inspired the forward forward algorithm.
+## Forward-Forward Propagation
+
+- Implemented the forward-forward propagation algorithm described in [this NeurIPS paper](https://arxiv.org/abs/2111.05368)  
+- Generated positive and negative samples to train the network without backpropagation
+- Tested model in supervised and unsupervised settings on MNIST
+- Added a linear classifier on top for inference
+
+## Contact 
+
+Please reach out with any questions!
+
+Email: m.j.amin200@gmail.com
