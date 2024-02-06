@@ -1,36 +1,38 @@
-# Assignment 4
+# Deep Learning Assignment 4 - RNN & VAE
 
 ## Overview
 
-This repository contains the implementation and analysis of various deep learning models as part of an assignment. The covered topics include RNN, BiLSTM, LSTM, autoencoder, and sequence-to-sequence models.
+This assignment covers RNN, BiLSTM, LSTM, autoencoder, and sequence-to-sequence models.
 
-## Table of Contents
+## Topics
 
-- [Questions](#questions)
-  - [Question 1: Molecular String Analysis](#question-1-molecular-string-analysis)
-  - [Question 2: Convolutional Variational Autoencoder](#question-2-convolutional-variational-autoencoder)
-  - [Question 3: Fine-tuning GPT-2 Model for Poetry](#question-3-fine-tuning-gpt-2-model-for-poetry)
-  - [Question 4: Vector-Quantized Variational Autoencoders](#question-4-vector-quantized-variational-autoencoders)
-- [Acknowledgements](#acknowledgements)
-  
+- Analyzing molecular strings with LSTM, BiLSTM, FC
+- Implementing convolutional variational autoencoder 
+- Fine-tuning GPT-2 model for poetry generation
+- Building vector quantized variational autoencoders
 
-## Questions 
+## Tasks
 
-### Question 1: Molecular String Analysis
+### Theory Questions
 
-In this question, three models—LSTM, BiLSTM, and FC—were applied to molecular strings (SMIELS). The models' accuracy was evaluated at different lengths of the strings.
+- Advantages of LSTM for sequence modeling
+- Latent space in variational autoencoders
+- Vector quantization for discrete latent representations
 
-### Question 2: Convolutional Variational Autoencoder
+### Coding Tasks
 
-Convolutional Variational Autoencoder and Variational Autoencoder networks were implemented and tested on the MNIST dataset. The output of the latent layer, specifically in the case of two dimensions, was examined.
-
-### Question 3: Fine-tuning GPT-2 Model for Poetry
-
-The pre-trained HooshvareLab/gpt2-fa model was fine-tuned on Ferdowsi's poems. Several poetry samples were generated using the fine-tuned model.
-
-### Question 4: Vector-Quantized Variational Autoencoders
-
-The Vector-Quantized Variational Autoencoders network was implemented based on a paper. The model was tested on the MNIST dataset and its color version. The model was also examined with different numbers and dimensions of the codebook vectors.
+- Evaluated LSTM, BiLSTM, FC on molecular strings 
+- Implemented convolutional and vanilla VAE on MNIST
+- Fine-tuned Persian GPT-2 model on Ferdowsi's poems
+- Built VQ-VAE model and tested on MNIST and color MNIST
 
 ## Acknowledgements
-[Aaron van den Oord](https://arxiv.org/pdf/1711.00937.pdf) for the insightful paper that inspired the VQ-VAE.
+
+Thanks to Aaron van den Oord et al. for the VQ-VAE paper:
+[Neural Discrete Representation Learning](https://arxiv.org/pdf/1711.00937.pdf)
+
+## Contact
+
+Please reach out with any questions!
+
+Email: m.j.amin200@gmail.com
