@@ -1,4 +1,4 @@
-# GAN-BERT for Text Classification
+# Deep Learning Project - GAN-BERT for Text Classification
 
 This repository contains code for training a GAN-BERT model for text classification on the SemEval-2024 dataset.
 
@@ -24,11 +24,6 @@ The repository contains the following files:
 - `G2.ipynb`: Notebook for training generator G2
 - `utility.py`: Utility functions for BERT classifier
 - `utilityG.py`: Utility functions for GAN-BERT
-
-
-Got it, I have updated the acknowledgement section with the complete name and details of the paper referenced:
-
-# GAN-BERT for Text Classification
 
 ## Acknowledgements
 We refer to the paper 'GAN-BERT for Automated Essay Scoring' by Griffin Holt and Theodore Kanell from Stanford University (CS224N course) for implementing the generator networks G1 and G2.
