@@ -1,4 +1,4 @@
-## Deep Learning Assignment - Assignment #1
+## Deep Learning Assignment - Assignment 1
 
 ## Overview
 
