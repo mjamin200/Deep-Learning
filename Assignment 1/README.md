@@ -1,4 +1,4 @@
-# Deep Learning Assignment 1
+# Deep Learning Assignment 1 - Review of Essential ML Concepts
 
 ## Overview
 
