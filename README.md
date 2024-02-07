@@ -10,6 +10,42 @@ Welcome to the repository for my Deep Learning course at Sharif University, taug
 
 This course is designed to provide a comprehensive understanding of deep learning and its applications. Throughout the semester, students will work on various assignments and projects that cover a wide range of topics within the field of deep learning.
 
+## Syllabus
+
+This course covers a wide range of topics in deep learning, providing students with both theoretical understanding and practical implementation skills. Here are the key subjects covered in the course:
+
+### Introduction/Overview
+- Importance and applications of machine learning
+- Basics of machine learning concepts
+- Rapid review of key mathematical foundations
+
+### Neural Networks
+- Single layer and multilayer perceptrons
+- Error backpropagation and key theorems
+- Regularization, normalization, and optimization techniques (e.g., stochastic gradient descent)
+
+### Convolutional Neural Networks (CNNs)
+- History, architecture, and learning of CNNs
+- Application of CNNs in computer vision
+- Key CNN models (e.g., AlexNet, ResNet)
+
+### Recurrent Neural Networks (RNNs)
+- RNNs, LSTM, GRUs, and Transformers
+- Applications in natural language processing (NLP) and signal/image processing
+
+### Unsupervised Learning
+- Autoencoders
+- Variational autoencoders
+- Conditional variational autoencoders
+
+### Generative Models
+- Generative adversarial networks (GANs)
+- Conditional GANs
+- Important architectures and applications
+- Diffusion models
+
+The syllabus aims to provide students with a comprehensive understanding of major deep learning architectures, concepts, and applications. It includes a balance of theory and practical implementation to ensure a well-rounded learning experience.
+
 ## Repository Structure
 
 - **Assignment 1**: Review of Essential ML Concepts
