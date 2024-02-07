@@ -8,43 +8,41 @@ Welcome to the repository for my Deep Learning course at Sharif University, taug
 - **Instructor**: Dr. Fatemizadeh
 - **Semester**: 2023
 
-This course is designed to provide a comprehensive understanding of deep learning and its applications. Throughout the semester, I will be working on various assignments and projects that will cover a wide range of topics within the field of deep learning.
+This course is designed to provide a comprehensive understanding of deep learning and its applications. Throughout the semester, students will work on various assignments and projects that cover a wide range of topics within the field of deep learning.
 
 ## Repository Structure
 
 - **Assignment 1**: Review of Essential ML Concepts
 - **Assignment 2**: Neural Networks, Optimization, Regression
 - **Assignment 3**: Convolutional Neural Networks
-- **Assignment 4**: RNNs,LSTM,VAEs,AEs,GPT2
+- **Assignment 4**: RNNs, LSTM, VAEs, AEs, GPT2
 - **Project**: GAN-BERT
 - Slides
 - Exams
 
 ## Assignment 1: Review of Essential ML Concepts
 
-The first assignment for this course is focused on reviewing essential machine learning concepts. It serves as a foundational exercise to ensure a strong understanding of the core principles and techniques used in machine learning.
-
-In this assignment, I have completed a series of theoretical questions and practical coding tasks. The coding tasks cover topics such as implementing decision trees, dimensionality reduction with PCA, and solving classification problems using various algorithms. The datasets used include MNIST and the Heart Disease Dataset.
+The first assignment focuses on reviewing essential machine learning concepts, serving as a foundational exercise to ensure a strong understanding of core principles and techniques used in machine learning. It includes theoretical questions and practical coding tasks covering decision trees, PCA, and classification problems using datasets like MNIST and the Heart Disease Dataset.
 
 ## Assignment 2: Neural Networks, Optimization, Regression
-This exercise covers building neural networks, optimization, and regression. It includes theoretical questions on neural network convergence and coding tasks like implementing fully connected neural networks and a novel "forward-forward propagation" algorithm, testing them on the MNIST dataset, and analyzing accuracy.
+
+This assignment covers building neural networks, optimization, and regression. It includes theoretical questions on neural network convergence and coding tasks such as implementing fully connected neural networks and a novel "forward-forward propagation" algorithm, tested on the MNIST dataset.
 
 ## Assignment 3: Convolutional Neural Networks
-This exercise focuses on Convolutional Neural Networks (CNNs) for computer vision tasks, covering theory and coding sections. The topics include CNN architectures like ResNet, advanced techniques such as deformable convolutions, and change detection between images. Theoretical questions explore concepts like Densely Connected CNNs, U-Net, skip connections in ResNet, and deformable convolutions. Coding tasks involve implementing and evaluating ResNet-50 on CIFAR-10, building deformable convolutional networks, and detecting changes between image pairs using CNN models. Each task includes details on datasets, model architectures, training procedures, and analyses.
 
+This assignment focuses on Convolutional Neural Networks (CNNs) for computer vision tasks. It covers theory and coding sections, including topics like CNN architectures (e.g., ResNet), advanced techniques such as deformable convolutions, and change detection between images. Theoretical questions explore concepts like Densely Connected CNNs and U-Net, while coding tasks involve implementing and evaluating models on datasets like CIFAR-10.
 
-## Assignment 4: RNNs,LSTM,VAEs,AEs,GPT2
-This exercise covered a diverse range of deep learning models, including RNN, BiLSTM, LSTM, autoencoder, and sequence-to-sequence models, in four distinct questions.
+## Assignment 4: RNNs, LSTM, VAEs, AEs, GPT2
 
-The initial investigation applied LSTM, BiLSTM, and FC models to molecular strings (SMIELS), evaluating their accuracy at varying string lengths. The second question implemented Convolutional Variational Autoencoder and Variational Autoencoder networks on the MNIST dataset, focusing on the examination of the latent layer's output, particularly in the case of two dimensions. Moving on, the third question involved fine-tuning the HooshvareLab/gpt2-fa model on Ferdowsi's poems, resulting in the generation of poetic samples. Finally, the fourth question implemented Vector-Quantized Variational Autoencoders, testing the model on both the MNIST dataset and its color version while exploring variations in codebook vectors.
+This assignment covers a diverse range of deep learning models, including RNNs, LSTM, autoencoders, and GPT2. Tasks include applying LSTM and BiLSTM to molecular strings, implementing Variational Autoencoders on MNIST, fine-tuning GPT2 on poetry generation, and testing Vector-Quantized Variational Autoencoders on MNIST and its color version.
 
 ## Project: GAN-BERT
-This project presents a GAN-BERT model for text classification on the SemEval-2024 dataset, aiming to classify text into six classes. Initially, a BERT classifier is trained on labeled data, utilizing an adapter module to reduce trainable parameters. Subsequently, the GAN-BERT model, inspired by 'GAN-BERT for Automated Essay Scoring,' comprises a Discriminator (D) and Generator (G), with G1 mapping noise to vector representations and G2 being a pretrained BERT model. Both generators are trained adversarially alongside D. 
 
+The GAN-BERT project focuses on text classification using a GAN-BERT model on the SemEval-2024 dataset. It involves training a BERT classifier on labeled data and then integrating a GAN architecture for text classification. The GAN-BERT model consists of a Discriminator and Generator, trained adversarially alongside the BERT model.
 
 ## Contact
 
-If you have any questions or want to connect regarding the assignments or deep learning, feel free to reach out to me:
+If you have any questions or want to connect regarding the assignments or deep learning, feel free to reach out:
 
 Mohammad Javad Amin
 - M.j.amin200@gamil.com
