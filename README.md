@@ -1,7 +1,6 @@
 # Deep Learning 
 
 Welcome to the repository for my Deep Learning course at Sharif University, taught by Dr. Fatemizadeh.
-I'm currently enrolled in this course for the current semester, and this repository contains my work for the assignments.
 
 ## About the Course
 
